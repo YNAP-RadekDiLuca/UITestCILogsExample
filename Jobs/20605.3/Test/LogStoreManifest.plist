@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>EFAA58DB-39EC-4A34-A970-88D4B9A74134</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>6D2F8178-2CA1-4B17-A20F-08B4589CBB0A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Run-mrpUITests-2021.04.29_11-02-04-+0000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>T</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>inseason-ios-apps project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mrpUITests</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mrpUITests</string>
+			<key>timeStartedRecording</key>
+			<real>641386924.74015999</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run mrpUITests</string>
+			<key>uniqueIdentifier</key>
+			<string>EFAA58DB-39EC-4A34-A970-88D4B9A74134</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
