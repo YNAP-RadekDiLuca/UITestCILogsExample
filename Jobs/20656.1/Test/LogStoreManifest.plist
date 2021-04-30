@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>688A0A0E-E4C3-4417-B2CF-54D7D4F7B1AC</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8FE570FF-EFCB-4A05-AEEB-33BA27320E05</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Run-napUITests-2021.04.30_10-17-17-+0000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>T</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>inseason-ios-apps project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>napUITests</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run napUITests</string>
+			<key>timeStartedRecording</key>
+			<real>641470637.59734499</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run napUITests</string>
+			<key>uniqueIdentifier</key>
+			<string>688A0A0E-E4C3-4417-B2CF-54D7D4F7B1AC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
